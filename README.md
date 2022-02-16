@@ -32,3 +32,16 @@ Features:
 
 
 
+
+Instructions for set-up:
+---------------------------------------------------------------------
+
+1) Clone git
+2) Follow instructions for getting an API at https://developers.google.com/maps/get-started
+3) Add api to your BuildConfig.Java
+4) Replace e-mail in main activity for your local public works e-mail.
+5) ENJOY!
+
+
+
+
