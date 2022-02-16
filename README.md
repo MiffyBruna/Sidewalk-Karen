@@ -21,9 +21,13 @@ Google Maps
 Features:
 ---------------------------------------------------------------------
 ○ Access to Camera and Gallery
+
 ○ Get the current location of the device
+
 ○ Check if location services are enabled on the device
+
 ○ Translate coordinates into an Address
+
 ○ Populate and submit an e-mail using your prefered e-mail client
 
 
