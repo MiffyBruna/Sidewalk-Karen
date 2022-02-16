@@ -120,7 +120,7 @@ class HomeActivity : AppCompatActivity() {
         }
 
         send.setOnClickListener {
-            val recipient = "mipinipi@gmail.com"
+            val recipient = "addanemail@publicworks.com"
             val subject = emailSubject
             val message ="Hello"+"\n Today in my daily walk I noticed a "+ emailSubject+ " at: " +"\n" +  displayAddress.text.toString().trim() +"\nLATITUDE/LONGITUDE: "+ displayCurrentPos.text.toString().trim() + "\n Please fix this, accessibility and proper sidewalks are important because they can offer considerable health, economic and equity benefits. " +"\n"+ "\n Your nice neighbor,\n  K.A.R.E.N"
 
