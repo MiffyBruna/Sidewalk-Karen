@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sidewalk Karen</string>
+    <string name="cameraAccessDenied">Camera could not open</string>
+
+    <string name="selected_item">Selected item:</string>
+
+    <string-array name="Type_of_request">
+        <item>"Select Request Type       |▼"</item>
+        <item>Missing sidewalk</item>
+        <item>Broken sidewalk</item>
+        <item>Ramps outdated</item>
+        <item>Missing ramp</item>
+        <item>Crosswalk request</item>
+    </string-array>
+</resources>
