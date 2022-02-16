@@ -1,6 +1,6 @@
 # Sidewalk-Karen
 
-<img src="[https://github.com/MiffyBruna/Sidewalk-Karen/blob/master/ScreenShots/Screenshot_20220211_111104.png" width="200" >
+<img src="[https://github.com/MiffyBruna/Sidewalk-Karen/blob/master/ScreenShots/Screenshot_20220211_111104.png" width="200" height="350">
 
 Description:
 ----------------------------------------------------------------------
