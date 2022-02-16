@@ -1,6 +1,6 @@
 # Sidewalk-Karen
 
-![E-mail screen](https://github.com/MiffyBruna/Sidewalk-Karen/blob/master/ScreenShots/Screenshot_20220211_111104.png | width=100 "E-mail Screen")
+![E-mail screen](https://github.com/MiffyBruna/Sidewalk-Karen/blob/master/ScreenShots/Screenshot_20220211_111104.png | width=100px "E-mail Screen")
 Description:
 ----------------------------------------------------------------------
 
