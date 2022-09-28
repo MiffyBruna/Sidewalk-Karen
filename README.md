@@ -1,11 +1,15 @@
 # Sidewalk-Karen
+
 <p float="left">
 <img src="https://github.com/MiffyBruna/Sidewalk-Karen/blob/master/ScreenShots/Screenshot_20220211_111119.png" width="200" height="350">
 <img src="https://github.com/MiffyBruna/Sidewalk-Karen/blob/master/ScreenShots/Screenshot_20220215_171817.png" width="200" height="350">
 <img src="https://github.com/MiffyBruna/Sidewalk-Karen/blob/master/ScreenShots/Screenshot_20220211_111104.png" width="200" height="350">
 <img src="https://github.com/MiffyBruna/Sidewalk-Karen/blob/master/ScreenShots/Screenshot_20220215_171836.png" width="200" height="350">
 </p>
-Description:
+<br>
+<br>
+
+ Description:
 ----------------------------------------------------------------------
 
 This app was created as a Capstone project for Ada Developer Academy.
